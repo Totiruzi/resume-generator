@@ -1,0 +1,8 @@
+<div class="languages">
+  <h2>Hobbies and Interest</h2>
+  <ul>
+    {{ range $v := .Hobbies -}}
+    <li>{{$v}}</li>
+    {{end -}}
+  </ul>
+</div>

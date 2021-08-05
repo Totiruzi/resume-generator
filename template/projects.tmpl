@@ -1,0 +1,8 @@
+<div class="projects">
+  <h2>Github</h2>
+  <ul>
+    {{ range $n, $v := .Github -}}
+    <li><a href="{{$v}}">{{$v}}</a></li>
+    {{end -}}
+  </ul>
+</div>

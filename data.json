@@ -1,0 +1,115 @@
+{
+  "Name": "Onowu Christopher Oyemechi",
+  "Job": "Full Stack Web Developer",
+  "Email": "totiruzi@yahoo.com",
+  "Location": "Krasnodar, Russia",
+  "Mission": "Looking for a Web Developement Position",
+  "Telephone": "+7952-855-64-67",
+  "Skills": [
+    "Golang",
+    "JavaScript",
+    "Angular"
+  ],
+  "Experience": [
+    {
+      "Role": "Full Stack Web Developer",
+      "Entity": "Personal Projects",
+      "Started":"April 2021",
+      "Location": "Krasnodar, Russia",
+      "Field": "IT and Software developement",
+      "Technologies": [
+        "Golang",
+        "JavaScript",
+        "SQL",
+        "Protocol Buffers",
+        "Postgres"
+      ],
+      "Projects":[
+        "Booking application",
+        "Chat application"
+      ]
+    },
+    {
+      "Role": "Web Developer",
+      "Entity": "Медиател",
+      "Started": "December 2020",
+      "Stopped": "March 2021",
+      "Location": "Krasnodar, Russia",
+      "Field": "IT and Software developement",
+      "Responsibilities": "Implementing functionalities that creates systems with rules for mobile carriers",
+      "Technologies": [
+        "HTML5",
+        "JavaScript",
+        "Typescript",
+        "Angular 2+",
+        "Angular Material",
+        "Jira",
+        "Git"
+      ]
+    },
+    {
+      "Role": "Web Developer",
+      "Entity": "Aff-Soft Media",
+      "Started": "July 2020",
+      "Stopped": "November 2020",
+      "Location": "Krasnodar, Russia",
+      "Field": "Media, Marketing and Advertising",
+      "Responsibilities": "Work with the back-end to make contents available to users, customers and clients of the media sites and social media integration. Reading up documentation to use libraries to make the site",
+      "Technologies": [
+        "HTML5",
+        "JavaScript",
+        "Typescript",
+        "Angular 2+",
+        "Bootstrap"
+      ]
+    },
+    {
+      "Role": "Web Developer",
+      "Entity": "Сквилла Тех",
+      "Started": "Julу 2019",
+      "Stopped": "September 2019",
+      "Location": "Krasnodar, Russia",
+      "Field": "IT and Software developement",
+      "Responsibilities": "Maximized user interface and user experience functionalities",
+      "Technologies": [
+        "HTML5",
+        "JavaScript",
+        "Typescript",
+        "Angular 2+",
+        "Bootstrap"
+      ]
+    },
+    {
+      "Role": "Web Developer",
+      "Entity": "Uyutni Devor Ltd",
+      "Started": "Febuary 2014",
+      "Stopped": "November 2016",
+      "Location": "Krasnodar, Russia",
+      "Field": "Building and Construction. IT department",
+      "Responsibilities": "Design, implement a Web-based strategic dashboard application that facilitates the control and monitoring of goods, stocks and services. Maintainance of the company's website by ensuring that the website is up to date and is SEO friendly.",
+      "Technologies": [
+        "HTML5",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "MySQL"
+      ]
+    }
+  ],
+  "Education": [
+    "Spcialist Software Engineering, Kuban state university of technolygy 2007 - 2012", 
+    "Master, Software for Computers and Automated System, Kuban State University of Technoloy 2012 -2014"
+  ],
+  "Languages": [
+    "English - Native",
+    "Russian - Secondary"
+  ],
+  "Github": [
+    "https://github.com/Totiruzi/modern-go-web-app",
+    "https://github.com/Totiruzi/ "
+  ],
+  "Hobbies": [
+    "Active learner of Front-end Web and Back-end Technologies", "Self-motivated and a team worker", 
+    "Passionate about the following technologies", "Research and Development, Strategic Planning and technology trends"
+  ]
+}

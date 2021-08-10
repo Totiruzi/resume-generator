@@ -31,12 +31,16 @@
     },
     {
       "Role": "Web Developer",
-      "Entity": "Медиател",
+      "Entity": "Mediatel",
       "Started": "December 2020",
       "Stopped": "March 2021",
       "Location": "Krasnodar, Russia",
       "Field": "IT and Software developement",
-      "Responsibilities": "Implementing functionalities that creates systems with rules for mobile carriers",
+      "Responsibilities": [
+        "Megaphone Project",
+        "Implement authentification system with guards and permission for users.",
+         "functionalities that helps create systems with rules for mobile carriers"
+      ],
       "Technologies": [
         "HTML5",
         "JavaScript",
@@ -45,6 +49,9 @@
         "Angular Material",
         "Jira",
         "Git"
+      ],
+      "Projects":[
+        "https://mediatel.su/"
       ]
     },
     {
@@ -54,29 +61,43 @@
       "Stopped": "November 2020",
       "Location": "Krasnodar, Russia",
       "Field": "Media, Marketing and Advertising",
-      "Responsibilities": "Work with the back-end to make contents available to users, customers and clients of the media sites and social media integration. Reading up documentation to use libraries to make the site",
+      "Responsibilities": [
+        "Social media adavertisement integration",
+        "Make contents users friendly, and easy navigation of the site",
+        "Social media integration. Reading up documentation to use libraries to make the site",
+        "Bug fixing"
+      ],
       "Technologies": [
         "HTML5",
         "JavaScript",
         "Typescript",
         "Angular 2+",
         "Bootstrap"
-      ]
+      ],
+      "Projects":["https://www.spark-interfax.ru/"]
     },
     {
       "Role": "Web Developer",
-      "Entity": "Сквилла Тех",
+      "Entity": "Squilla Tech",
       "Started": "Julу 2019",
       "Stopped": "September 2019",
       "Location": "Krasnodar, Russia",
       "Field": "IT and Software developement",
-      "Responsibilities": "Maximized user interface and user experience functionalities",
+      "Responsibilities": [
+        "Crypto leanding platform",
+        "Understanding the working principles of Angular",
+        "Create reactive forms",
+        "Create skeletal components for integration"
+      ],
       "Technologies": [
         "HTML5",
         "JavaScript",
         "Typescript",
         "Angular 2+",
         "Bootstrap"
+      ],
+      "Projects":[
+        "https://career.habr.com/companies/squilla"
       ]
     },
     {
@@ -86,14 +107,18 @@
       "Stopped": "November 2016",
       "Location": "Krasnodar, Russia",
       "Field": "Building and Construction. IT department",
-      "Responsibilities": "Design, implement a Web-based strategic dashboard application that facilitates the control and monitoring of goods, stocks and services. Maintainance of the company's website by ensuring that the website is up to date and is SEO friendly.",
+      "Responsibilities": [
+        "Design, implement a Web-based strategic dashboard application that facilitates the control and monitoring of goods, stocks and services",
+        "Maintainance of the company's website by ensuring that the website is up to date and is SEO friendly."
+      ],
       "Technologies": [
         "HTML5",
         "CSS",
         "JavaScript",
         "PHP",
         "MySQL"
-      ]
+      ],
+      "Projects":[]
     }
   ],
   "Education": [
@@ -111,5 +136,9 @@
   "Hobbies": [
     "Active learner of Front-end Web and Back-end Technologies", "Self-motivated and a team worker", 
     "Passionate about the following technologies", "Research and Development, Strategic Planning and technology trends"
+  ],
+  "Learning": [
+    "https://marvel-comic-characters-master-mxrzs3qqt.vercel.app/characters",
+    "https://jolly-noyce-9be083.netlify.app/"
   ]
 }

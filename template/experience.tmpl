@@ -18,11 +18,20 @@
     <li class="experience__detail">{{- . -}}</li>
     {{end}}
   </ul>
+
+   {{if .Responsibilities}}
+  <p>Responsibilities</p>
+  <ul class="experience__details">
+    {{ range .Responsibilities }}
+    <li class="experience__detail">{{- . -}}</li>
+    {{end}}
+  </ul>{{else}}{{end}}
+
   {{if .Projects}}
   <p>Projects</p>
   <ul class="experience__details">
-    {{ range .Projects }}
-    <li class="experience__detail">{{- . -}}</li>
+    {{ range $n, $v := .Projects }}
+    <li class="experience__detail"><a href="{$v}}">{{$v}}</a></li>
     {{end}}
   </ul>{{else}}{{end}}
 </div>
